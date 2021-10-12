@@ -17,7 +17,7 @@
 | 5 支持向量机(Support Vector Machine) | [Theory](/5_SVM/Theory)                                      | [Code](/5_SVM/Code)                                          | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 6 贝叶斯(Bayes)                      | [Theory](/6_Bayes/Theory)                                    | [Code](/6_Bayes/Code)                                        | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 7 神经网络(Neural Network)           | [Theory](/7_Neural_Network/Theory)                           | [Code](/7_Neural_Network/Code)                               | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
-| 8 聚类(Clustering)                   |                                                              |                                                              |                                    |                      |
+| 8 聚类(Clustering)                   | [Theory](/8_Clustering/Theory)                               |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 9 降维与度量学习                     |                                                              |                                                              |                                    |                      |
 | 9.1 kNN                              | [Theory](/9_Dimensionality_reduction_and_metric_learning/Theory/kNN) | [Code](/9_Dimensionality_reduction_and_metric_learning/Code/kNN) | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 9.2 PCA                              |                                                              | [Code](/9_Dimensionality_reduction_and_metric_learning/Code/PCA) | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
@@ -26,6 +26,8 @@
 | 10 集成学习(ensemble learning)       | [Theory](/10_Emsemble_learning/Theory/Ensemble_learning)     |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 10.1 Boosting                        | [Theory](/10_Ensemble_learning/Theory/Boosting)              |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 10.2 Bagging and RF(随机森林)        | [Theory](/10_Ensemble_learning/Theory/Bagging_and_RF)        |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| 11 特征选择与稀疏学习                | [Theory](/11_Feature_selection_and_sparse_learning/Theory)   |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| 12 计算学习理论                      | [Theory](/12_Computational_learning_theory/Theory)           |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 
 
 
