@@ -1,12 +1,14 @@
 # Machine Learning
-常见机器学习算法的理论讲解及其代码实现。
 
-文章均为原创文章，代码均为贡献者自己实现。
+[![MIT license](https://camo.githubusercontent.com/3f7996bf7bd441deb7199c498aaa835164dee8da/68747470733a2f2f696d672e736869656c64732e696f2f6475622f6c2f766962652d642e737667)](https://github.com/lawlite19/MachineLearning_Python/blob/master/LICENSE)
+
+该库用于常见机器学习算法的理论讲解及其代码实现。文章均为原创文章，代码均为贡献者自己实现。
 
 
 
 | Method                               | Theory                                                       | Code                                                         | Manager                            | e-mail               |
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------- | -------------------- |
+| 0 绪论(Introduction)                 | [Theory](/0_Introduction)                                    |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 1 线性回归(Linear Regression)        |                                                              | [Code](/1_Linear_regression/Code)                            | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 2 逻辑回归(Logistics Regression)     |                                                              |                                                              | [@Alex](https://github.com/jaheel) |                      |
 | 3 决策树(Decision Tree)              | [Theory](/3_Decision_Tree/Theory)                            |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
@@ -23,4 +25,12 @@
 | 10 集成学习(ensemble learning)       | [Theory](/10_Emsemble_learning/Theory/Ensemble_learning)     |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 10.1 Boosting                        | [Theory](/10_Ensemble_learning/Theory/Boosting)              |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 10.2 Bagging and RF(随机森林)        | [Theory](/10_Ensemble_learning/Theory/Bagging_and_RF)        |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+
+
+
+# Concat
+
+欢迎关注微信公众号：繁星的人工智能厨房
+
+![微信公众号二维码](images/微信公众号二维码.png)
 
