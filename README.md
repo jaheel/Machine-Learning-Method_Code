@@ -9,6 +9,7 @@
 | Method                               | Theory                                                       | Code                                                         | Manager                            | e-mail               |
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------- | -------------------- |
 | 0 绪论(Introduction)                 | [Theory](/0_Introduction)                                    |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| 0.1 性能度量(Performance Metrics)    | [Theory](/0_Introduction/Performance_Metrics)                |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 1 线性回归(Linear Regression)        |                                                              | [Code](/1_Linear_regression/Code)                            | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 2 逻辑回归(Logistics Regression)     |                                                              |                                                              | [@Alex](https://github.com/jaheel) |                      |
 | 3 决策树(Decision Tree)              | [Theory](/3_Decision_Tree/Theory)                            |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
@@ -28,7 +29,7 @@
 
 
 
-# Concat
+# Appendix
 
 欢迎关注微信公众号：繁星的人工智能厨房
 
