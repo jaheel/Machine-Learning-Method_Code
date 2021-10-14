@@ -29,6 +29,7 @@
 | 10.2 Bagging and RF(随机森林)        | [Theory](/10_Ensemble_learning/Theory/Bagging_and_RF)        |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 11 特征选择与稀疏学习                | [Theory](/11_Feature_selection_and_sparse_learning/Theory)   |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 | 12 计算学习理论                      | [Theory](/12_Computational_learning_theory/Theory)           |                                                              | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
+| 13 卷积神经网络                      |                                                              | [Code](/13_CNN/Code/)                                        | [@Alex](https://github.com/jaheel) | xufanxin86@gmail.com |
 
 
 
